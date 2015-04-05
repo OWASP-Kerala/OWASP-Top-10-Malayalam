@@ -1,5 +1,7 @@
 Contains the Malayalam version of OWASP Top 10
 
+All trademarks, service marks, trade names, product names and logos appearing on the documents are the property of their respective owners
+
 Copyright (c) 2015 The OWASP Foundation
 
 All these documents are licensed under Creative Commons Attribution-ShareAlike 2.5 International (CC BY-SA 2.5) (https://creativecommons.org/licenses/by-sa/2.5)
