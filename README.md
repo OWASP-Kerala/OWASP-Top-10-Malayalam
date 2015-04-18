@@ -1,4 +1,4 @@
-Contains the Malayalam version of OWASP Top 10
+Contains the Malayalam version of OWASP Top 10 (ഒവാസ്പിന്റെ ആദ്യ പത്തു സുരക്ഷാ നിര്‍ദേശങ്ങള്‍)
 
 All trademarks, service marks, trade names, product names and logos appearing on the documents are the property of their respective owners
 
